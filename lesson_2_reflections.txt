@@ -1,0 +1,4 @@
+﻿What happens when you initialize a repository? Why do you need to do it?
+Zostaje utworzony ukryty folder .git, jest on potrzebny do przechowywania metadanych dotyczących plików znajdujących się w repozytorium.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+W nim znajdują się pliki do wysłania z working directory do repozytorium. Dzięki temu można lepiej zarządzać plikami wysyłanymi.
