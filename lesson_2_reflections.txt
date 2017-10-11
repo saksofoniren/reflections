@@ -2,3 +2,5 @@
 Zostaje utworzony ukryty folder .git, jest on potrzebny do przechowywania metadanych dotyczących plików znajdujących się w repozytorium.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 W nim znajdują się pliki do wysłania z working directory do repozytorium. Dzięki temu można lepiej zarządzać plikami wysyłanymi.
+How can you use the staging area to make sure you have one commit per logical change?
+Można porównać staging area z ostatnim commitem.
