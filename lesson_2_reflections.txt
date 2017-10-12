@@ -6,3 +6,5 @@ How can you use the staging area to make sure you have one commit per logical ch
 Można porównać staging area z ostatnim commitem.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Można rozdzielić projekt na podprojekty, aby następnie je połączyć w całość.
+How do the diagrams help you visualize the branch structure?
+Pozwala zapoznać się ze strukturą projektu.
